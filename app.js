@@ -1,7 +1,7 @@
 /**
  * Main Application Server
  * Lab Assignment 2 - Student Management REST API
- * Student: Vedansh (Roll No: 2501730211)
+ * Student: Srishti (Roll No: 2501730380)
  * Branch: B.Tech CSE AI-ML (Section F)
  * Course: Web Dev III (Node.js & Express Backend) Unit-2
  * 
@@ -36,8 +36,8 @@ app.get('/', (req, res) => {
     project: 'Student Management REST API',
     assignment: 'Lab Assignment 2 (Unit-2)',
     author: {
-      name: 'Vedansh',
-      rollNo: '2501730211',
+      name: 'Srishti',
+      rollNo: '2501730380',
       branch: 'B.Tech CSE (AI & ML)',
       section: 'Section F'
     },
@@ -85,7 +85,7 @@ if (require.main === module) {
   app.listen(PORT, () => {
     console.log(`\n======================================================`);
     console.log(`🚀 Student Management REST API Server is running!`);
-    console.log(`👨‍🎓 Student: Vedansh | Roll No: 2501730211 | Sec F`);
+    console.log(`👨‍🎓 Student: Srishti | Roll No: 2501730380 | Sec F`);
     console.log(`🌐 Local URL: http://localhost:${PORT}`);
     console.log(`📋 API Docs:  http://localhost:${PORT}/students`);
     console.log(`======================================================\n`);
