@@ -1,7 +1,7 @@
 /**
  * Student Routes (Modular Routing via Express Router)
  * Lab Assignment 2 - Student Management REST API
- * Student: Vedansh (Roll No: 2501730211 | B.Tech CSE AI-ML Sec F)
+ * Student: Srishti (Roll No: 2501730380 | B.Tech CSE AI-ML Sec F)
  * 
  * Endpoints:
  *   - GET    /students       -> View all students (200 OK)
