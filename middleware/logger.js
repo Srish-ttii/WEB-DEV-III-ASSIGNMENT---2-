@@ -1,7 +1,7 @@
 /**
  * Custom Logger Middleware
  * Lab Assignment 2 - Student Management REST API
- * Student: Vedansh (Roll No: 2501730211 | B.Tech CSE AI-ML Sec F)
+ * Student: Srishti (Roll No: 2501730380 | B.Tech CSE AI-ML Sec F)
  * 
  * Requirement:
  *   - Logs HTTP Method, Requested URL, and Timestamp for incoming requests.
