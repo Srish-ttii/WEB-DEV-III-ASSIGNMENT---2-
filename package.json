@@ -16,7 +16,7 @@
     "middleware",
     "assignment-2"
   ],
-  "author": "Vedansh (Roll No: 2501730211 | B.Tech CSE AI-ML Sec F)",
+  "author": "Srishti (Roll No: 2501730380 | B.Tech CSE AI-ML Sec F)",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
